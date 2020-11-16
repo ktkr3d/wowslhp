@@ -17,6 +17,20 @@ npm install
 npm start
 ```
 
+## To Package
+
+#### Windows
+```
+> yarn add electron-builder --dev
+> npx electron-builder --win --x64 --config.nsis.oneClick=false
+```
+
+#### Linux deb
+```
+$ yarn add electron-builder --dev
+$ npx electron-builder --linux deb
+```
+
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
