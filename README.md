@@ -22,12 +22,14 @@ npm start
 #### Windows
 ```
 > yarn add electron-builder --dev
+> npm run build
 > npx electron-builder --win --x64 --config.nsis.oneClick=false
 ```
 
 #### Linux deb
 ```
 $ yarn add electron-builder --dev
+$ npm run build
 $ npx electron-builder --linux deb
 ```
 
