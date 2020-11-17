@@ -1,6 +1,6 @@
 # wowslhp
 
-![screenshot](https://github.com/ktkr3d/wowslhp/raw/master/wowslhp.png)
+![screenshot](https://ktkr3d.github.io/images/wowslhp.png)
 
 ## To Use
 
