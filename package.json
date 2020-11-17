@@ -27,11 +27,12 @@
     "typescript": "^3.9.5"
   },
   "dependencies": {},
+  "main": "dist/main.js",
   "build": {
     "appId": "com.github.ktkr3d.wowslhp",
     "productName": "wowslhp",
     "files": [
-      "src/*"
+      "dist/main.js"
     ]
   }
 }
