@@ -1,11 +1,11 @@
 import { app, BrowserWindow } from "electron";
-import * as path from "path";
+// import * as path from "path";
 
 function createWindow() {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
-    height: 600,
-    width: 800,
+    // width: 800,
+    // height: 600,
     show: false
   });
 
